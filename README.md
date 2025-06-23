@@ -50,5 +50,4 @@ Async Python + OpenAI SDK
 For business inquiries, suggestions or collaborations:
 
 📧 wahaj0574@gmail.com
-🌐 LinkedIn [https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/]
 
